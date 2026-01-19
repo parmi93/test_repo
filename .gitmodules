@@ -1,3 +1,3 @@
 [submodule "test_submodule"]
 	path = test_submodule
-	url = https://github.com/parmi93/test_repo_submodule
+	url = ../test_repo_submodule
