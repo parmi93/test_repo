@@ -1,0 +1,3 @@
+[submodule "framework"]
+	path = framework
+	url = ../test_repo_submodule
